@@ -24,4 +24,5 @@ class Utility {
             System.out.print(moves.get(j) + "-");
         System.out.println();
     }
+
 }
