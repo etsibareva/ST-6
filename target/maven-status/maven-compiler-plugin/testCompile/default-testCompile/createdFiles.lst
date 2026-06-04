@@ -1,1 +1,5 @@
-com\mycompany\app\AppTest.class
+com\mycompany\app\TestPrint.class
+com\mycompany\app\TestInitialization.class
+com\mycompany\app\TestPanel.class
+com\mycompany\app\TestStates.class
+com\mycompany\app\TestMiniMax.class
